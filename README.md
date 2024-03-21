@@ -1,5 +1,4 @@
-![Diseño sin título|80](https://github.com/Tatianaxs/Tatianaxs/assets/145577244/dd8f529b-858b-46a0-981d-3a7c6567ffc0)
- Welcome! 
+:cherry_blossom:*** Welcome! ***:cherry_blossom:
 
 I'm Tatiana, and I'm quite interested in how our brains work and how technology can interact with them ⚡
 This repository is my little corner of GitHub to tinker with some ideas and learn more about this fascinating field.
