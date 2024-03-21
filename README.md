@@ -1,4 +1,4 @@
-:cherry_blossom:*** Welcome! ***:cherry_blossom:
+:cherry_blossom:*Welcome!*:cherry_blossom:
 
 I'm Tatiana, and I'm quite interested in how our brains work and how technology can interact with them ⚡
 This repository is my little corner of GitHub to tinker with some ideas and learn more about this fascinating field.
