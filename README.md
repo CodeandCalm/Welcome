@@ -1,4 +1,4 @@
-![Diseño sin título](https://github.com/Tatianaxs/Tatianaxs/assets/145577244/dd8f529b-858b-46a0-981d-3a7c6567ffc0)
+|[Diseño sin título|50](https://github.com/Tatianaxs/Tatianaxs/assets/145577244/dd8f529b-858b-46a0-981d-3a7c6567ffc0)
  Welcome! 
 
 I'm Tatiana, and I'm quite interested in how our brains work and how technology can interact with them ⚡
